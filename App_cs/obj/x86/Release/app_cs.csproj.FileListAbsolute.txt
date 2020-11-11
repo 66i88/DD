@@ -1,0 +1,7 @@
+H:\2019.DD\免费\App_cs\bin\x86\Release\App_csharp.exe
+H:\2019.DD\免费\App_cs\bin\x86\Release\App_csharp.pdb
+H:\2019.DD\免费\App_cs\obj\x86\Release\App_csharp.Form1.resources
+H:\2019.DD\免费\App_cs\obj\x86\Release\App_csharp.Properties.Resources.resources
+H:\2019.DD\免费\App_cs\obj\x86\Release\app_cs.csproj.GenerateResource.cache
+H:\2019.DD\免费\App_cs\obj\x86\Release\App_csharp.exe
+H:\2019.DD\免费\App_cs\obj\x86\Release\App_csharp.pdb
